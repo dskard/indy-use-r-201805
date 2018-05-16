@@ -6,7 +6,7 @@ May 15, 2018
 
 Meetup details can be found on the [meetup.com](https://www.meetup.com/Indy-useR-Group/events/sjmfklyxhbtb/) website.
 
-[Presentation slides](://drive.google.com/drive/folders/17nb4e9OZFp0svt45GdZuDLZ-fJVzL7xz?usp=sharing) are also available.
+[Presentation slides](https://drive.google.com/drive/folders/17nb4e9OZFp0svt45GdZuDLZ-fJVzL7xz?usp=sharing) are also available.
 
 ### Code Examples
 2. [Spirograph HTTP APIs with Plumber](https://github.com/dskard/spiro-plumber)
