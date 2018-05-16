@@ -1,10 +1,10 @@
-# IndyUseR May Meetup
+# IndyUseR Meetup - May 2018
 
 Turning Your Analysis into an API with Plumber
 
 May 15, 2018
 
-Meetup details can be found on the [meetup.com](https://www.meetup.com/Indy-useR-Group/events/sjmfklyxhbtb/) website.
+Meetup details can be found on the [meetup.com](https://www.meetup.com/Indy-useR-Group/events/sjmfklyxhbtb/) website. There is also a more formal [page with just an abstract](https://indyuser.github.io/IndyUserWebpg/2018/05/15/may2018/).
 
 [Presentation slides](https://drive.google.com/drive/folders/17nb4e9OZFp0svt45GdZuDLZ-fJVzL7xz?usp=sharing) are also available.
 
